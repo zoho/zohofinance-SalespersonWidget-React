@@ -23,7 +23,7 @@ Make sure you have Node.js and npm (Node Package Manager) installed on your mach
               
 ## Development Process of Salesperson React Widget:
 * Clone Repository
-* You have two folders react app and setting Widget
+* You have two folders react app and settings Widget
 * Run `npm install` in each folder
 * In the React Folder, Run `npm run build`,  It builds the app for production to the `build` folder
 * Copy the content from the 'build' folder and paste it into the 'app' folder of the 'SettingsWidget'. Before pasting the content, make sure to delete the existing content.
