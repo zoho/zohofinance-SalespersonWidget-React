@@ -21,7 +21,7 @@ Make sure you have Node.js and npm (Node Package Manager) installed on your mach
 2. Create connections and paste the connnection_link_name [here](https://github.com/zoho/zohofinance-SalespersonWidget-React/blob/04a4f75fe65d8e9241d45488f961fff0df46a792/salesperson-react-app/src/App.js#L8).and also paste in [plugin-manifest.json](https://github.com/zoho/zohofinance-SalespersonWidget-React/blob/04a4f75fe65d8e9241d45488f961fff0df46a792/salesperson-settingWidget/plugin-manifest.json#L21) and ensure the scopes that you created in your developer portal
 
               
-## Development Process of Salesperson React Widget:
+## Development Process of Salesperson Widget:
 * Clone Repository
 * You have two folders react app and settings Widget
 * Run `npm install` in each folder
