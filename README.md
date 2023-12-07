@@ -14,7 +14,7 @@
 
 
 
-## Prerequesties:
+## Prerequisites:
 
 Make sure you have Node.js and npm (Node Package Manager) installed on your machine. You can download and install them from [Node.js website](https://nodejs.org/).
 1. Create a Global Field in the developer portal and paste the field API name [here](https://github.com/zoho/zohofinance-SalespersonWidget-React/blob/04a4f75fe65d8e9241d45488f961fff0df46a792/salesperson-react-app/src/App.js#L10)
